@@ -83,6 +83,7 @@
         </div>
         <div class="row g-0" id="contact">
             <div class="col-lg-6">
+                <h5 style="color: white;"> Error meagge showm</h5>
                 <div class="bg-dark p-5">
                     <form action="process.php" method="post">
                         <div class="row g-3">
@@ -153,7 +154,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-5">
-                    <img src="img/logo2.png" alt="Image" height="100" class="mb-2">
+                    <img src="img/logo2.png" alt="Image" height="150">
                     <h4 class="text-uppercase text-white mb-2">Groove</h4>
                     <h6 class="text-uppercase text-white mb-2">Dance Studio</h6>
                     <!-- <p class="text-light">Amet justo diam dolor rebum lorem sit stet sea justo kasd</p> -->
